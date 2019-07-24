@@ -1,8 +1,8 @@
 # FORK
  - it is a fork of the fork https://github.com/timmygee/react-s-alert (this adds an opportunity to pass custom alert id in comparison with the original one)
  - original package is https://github.com/juliancwirko/react-s-alert
- - forked here to ensure it won't be deleted.
-@alienalien13
+ - forked here to ensure it won't be deleted. @alienalien13
+ - also added a fix regarding custom alert id.
 
 # React sAlert component
 
